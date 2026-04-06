@@ -1,5 +1,5 @@
 # ORIGINAL SCRIPT MADE BY LEEAO https://github.com/leeao
-# FORK BY RAGHID0401
+FORK BY RAGHID0401
 # PS2 D1GP .D1 TRACK RIPPING NOESIS SCRIPT
 edited script to read world sections that consist of plane sections and atomic sections and bin mesh PLG.
 for now the script only reads world sections at the root of the dff. it should skip clumps just fine.
